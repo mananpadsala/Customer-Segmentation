@@ -1,4 +1,4 @@
-# Customer Segmentation
+# ShopperInsights: Customer Segmentation
 This project aims to segment customers based on their purchase behavior and demographics. The segmentation will allow for targeted marketing campaigns and personalized offers. Also, to anticipate the purchases that will be made by a new customer, during the following year and this, from its first purchase by assigning them appropriate cluster/segment
 
 ## Data
